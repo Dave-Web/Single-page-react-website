@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Dave-Web/Single-page-react-website.git/static/css/main.7978d898.chunk.css",
+    "main.js": "/Dave-Web/Single-page-react-website.git/static/js/main.fca84c0d.chunk.js",
+    "main.js.map": "/Dave-Web/Single-page-react-website.git/static/js/main.fca84c0d.chunk.js.map",
+    "runtime-main.js": "/Dave-Web/Single-page-react-website.git/static/js/runtime-main.441739e8.js",
+    "runtime-main.js.map": "/Dave-Web/Single-page-react-website.git/static/js/runtime-main.441739e8.js.map",
+    "static/js/2.44d3c91f.chunk.js": "/Dave-Web/Single-page-react-website.git/static/js/2.44d3c91f.chunk.js",
+    "static/js/2.44d3c91f.chunk.js.map": "/Dave-Web/Single-page-react-website.git/static/js/2.44d3c91f.chunk.js.map",
+    "index.html": "/Dave-Web/Single-page-react-website.git/index.html",
+    "static/css/main.7978d898.chunk.css.map": "/Dave-Web/Single-page-react-website.git/static/css/main.7978d898.chunk.css.map",
+    "static/js/2.44d3c91f.chunk.js.LICENSE.txt": "/Dave-Web/Single-page-react-website.git/static/js/2.44d3c91f.chunk.js.LICENSE.txt",
+    "static/media/GoodTeam.svg": "/Dave-Web/Single-page-react-website.git/static/media/GoodTeam.84eea9f6.svg",
+    "static/media/Maintenance.8e26870e.svg": "/Dave-Web/Single-page-react-website.git/static/media/Maintenance.8e26870e.svg",
+    "static/media/ModernDesigns.9c619714.svg": "/Dave-Web/Single-page-react-website.git/static/media/ModernDesigns.9c619714.svg",
+    "static/media/Remote_team.881c546f.svg": "/Dave-Web/Single-page-react-website.git/static/media/Remote_team.881c546f.svg",
+    "static/media/Secure_server.8ce86e09.svg": "/Dave-Web/Single-page-react-website.git/static/media/Secure_server.8ce86e09.svg",
+    "static/media/VideoFile.7d1ea6a9.mp4": "/Dave-Web/Single-page-react-website.git/static/media/VideoFile.7d1ea6a9.mp4",
+    "static/media/cloud_files.svg": "/Dave-Web/Single-page-react-website.git/static/media/cloud_files.92248795.svg",
+    "static/media/develop_app.233f735d.svg": "/Dave-Web/Single-page-react-website.git/static/media/develop_app.233f735d.svg",
+    "static/media/mobile_testing.ffef66ae.svg": "/Dave-Web/Single-page-react-website.git/static/media/mobile_testing.ffef66ae.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.441739e8.js",
+    "static/js/2.44d3c91f.chunk.js",
+    "static/css/main.7978d898.chunk.css",
+    "static/js/main.fca84c0d.chunk.js"
+  ]
+}
